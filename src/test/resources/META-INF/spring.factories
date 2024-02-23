@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.dilatolyesi.\
+    config.TestContainersSpringContextCustomizerFactory,com.dilatolyesi.config.\
+    SqlTestContainersSpringContextCustomizerFactory,com.dilatolyesi.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
